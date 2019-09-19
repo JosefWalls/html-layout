@@ -1,0 +1,42 @@
+.greyBoxOne{
+    background: rgb(216, 216, 216);
+    padding: 0 0 15vh 0;
+}
+
+#box {
+    background: rgb(74, 144, 226);
+    padding:  10px 40px 65px 40px;
+    position: absolute;
+    top: 10px;
+    left: 25px;
+}
+
+.textBox{
+    background: white;
+    padding: 0 0 17.5vh 0;
+}
+
+#text {
+    color: grey;
+    padding:  60px 40px 0 40px;
+    font-size: 25px;
+}
+.darkerBlue {
+    background: rgb(74, 144, 226);
+    padding: 0 0 15vh 0;
+}
+
+.lighterBlue {
+    background: rgb(80, 227, 194);
+    padding: 0 0 15vh 0;
+}
+
+.green {
+    background: rgb(184, 233, 134);
+    padding: 0 0 15vh 0;
+}
+
+.yellow {
+    background: rgb(248, 231, 28);
+    padding: 0 0 15vh 0;
+}
