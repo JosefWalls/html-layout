@@ -1,0 +1,21 @@
+header {
+    background: rgb(68, 68, 68);
+    padding: 10vh 5vw 6vh 50vw;
+}
+
+#boxOne {
+    background: rgb(216,216,216);
+    padding: 1vh 0vw 100vh 12.5vw;
+
+}
+
+#boxTwo {
+    background: rgb(239, 239, 239);
+    padding: 1vh 75vw 90vh 0vw;
+    border-bottom: 10vh solid rgb(68, 68, 68)
+}
+
+#boxThree {
+    background: rgb(216,216,216);
+    padding: 1vh 12.5vw 100vh 0vw;
+}
